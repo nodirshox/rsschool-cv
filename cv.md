@@ -34,3 +34,12 @@ PROJECTS
 - PHP Blog from Scratch([URL](https://github.com/nodirshox/phpblog))
 - To Do app using Javascript([URL](https://github.com/nodirshox/todo-app))
 - Spendee app using C++([URL](https://github.com/nodirshox/Speende-program))
+
+EDUCATIONS
+-
+- Computer Scrience engineering at Inha university in Tashkent 2017 - present
+
+English Practise
+-
+- Worked as Deli Clerk in US for 3 months
+- Studying English language for 7 years
