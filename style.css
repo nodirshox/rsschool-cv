@@ -1,0 +1,35 @@
+body {
+    /* Setting up font */
+    font-family: monospace;
+    color: #24292e;
+    font-size: 18px;
+}
+img {
+    height: 180px;
+    width: 180px;
+}
+.container {
+    display: flex;
+    justify-content: center;
+}
+.grid-container {
+    justify-items: center;
+    max-width: 1024px;
+}
+a {
+    text-decoration: none;
+    color: #408dee;
+}
+.button {
+    background-color: #408dee;
+    padding: 5px;
+    border-radius: 5px;
+}
+a.button {
+    color: white;
+}
+hr {
+    height: 1px;
+    background-color: #ccc;
+    border: none;
+}
